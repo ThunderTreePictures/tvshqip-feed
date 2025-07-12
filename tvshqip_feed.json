@@ -1,0 +1,109 @@
+{
+  "providerName": "TV SHQIP",
+  "language": "sq",
+  "lastUpdated": "2025-07-12T23:09:59Z",
+  "movies": [
+    {
+      "id": "rtk1",
+      "title": "RTK 1",
+      "content": {
+        "dateAdded": "2025-07-12T23:09:59Z",
+        "videos": [
+          {
+            "url": "https://example.com/rtk1.m3u8",
+            "quality": "HD"
+          }
+        ],
+        "language": "sq"
+      },
+      "images": {
+        "poster": "https://example.com/logos/rtk1.png"
+      }
+    },
+    {
+      "id": "rtk2",
+      "title": "RTK 2",
+      "content": {
+        "dateAdded": "2025-07-12T23:09:59Z",
+        "videos": [
+          {
+            "url": "https://example.com/rtk2.m3u8",
+            "quality": "HD"
+          }
+        ],
+        "language": "sq"
+      },
+      "images": {
+        "poster": "https://example.com/logos/rtk2.png"
+      }
+    },
+    {
+      "id": "klan_kosova",
+      "title": "Klan Kosova",
+      "content": {
+        "dateAdded": "2025-07-12T23:09:59Z",
+        "videos": [
+          {
+            "url": "https://example.com/klan.m3u8",
+            "quality": "HD"
+          }
+        ],
+        "language": "sq"
+      },
+      "images": {
+        "poster": "https://example.com/logos/klan.png"
+      }
+    },
+    {
+      "id": "rtv21",
+      "title": "RTV21",
+      "content": {
+        "dateAdded": "2025-07-12T23:09:59Z",
+        "videos": [
+          {
+            "url": "https://example.com/rtv21.m3u8",
+            "quality": "HD"
+          }
+        ],
+        "language": "sq"
+      },
+      "images": {
+        "poster": "https://example.com/logos/rtv21.png"
+      }
+    },
+    {
+      "id": "dukagjini",
+      "title": "Dukagjini",
+      "content": {
+        "dateAdded": "2025-07-12T23:09:59Z",
+        "videos": [
+          {
+            "url": "https://example.com/dukagjini.m3u8",
+            "quality": "HD"
+          }
+        ],
+        "language": "sq"
+      },
+      "images": {
+        "poster": "https://example.com/logos/dukagjini.png"
+      }
+    },
+    {
+      "id": "ktv",
+      "title": "KTV",
+      "content": {
+        "dateAdded": "2025-07-12T23:09:59Z",
+        "videos": [
+          {
+            "url": "https://example.com/ktv.m3u8",
+            "quality": "HD"
+          }
+        ],
+        "language": "sq"
+      },
+      "images": {
+        "poster": "https://example.com/logos/ktv.png"
+      }
+    }
+  ]
+}
