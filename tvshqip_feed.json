@@ -1,108 +1,91 @@
 {
   "providerName": "TV SHQIP",
   "language": "sq",
-  "lastUpdated": "2025-07-12T23:09:59Z",
+  "lastUpdated": "2025-07-12T23:59:00Z",
   "movies": [
     {
       "id": "rtk1",
       "title": "RTK 1",
       "content": {
-        "dateAdded": "2025-07-12T23:09:59Z",
+        "dateAdded": "2025-07-12T23:59:00Z",
         "videos": [
           {
-            "url": "https://ub1doy938d.gjirafa.net/live/Gfsqdsr7FewrYClU3ACEGZvCHktt2wse/zykxzq1080/index.m3u8",
+            "url": "https://gjirafa-video-live.gjirafa.net/gjvideo-livestream/98r-d35-487-v6m/tracks-v4a1/mono.m3u8",
             "quality": "HD"
           }
         ],
         "language": "sq"
       },
       "images": {
-        "poster": "https://example.com/logos/rtk1.png"
+        "poster": "https://i.imgur.com/KTcWcO6.png"
       }
     },
     {
       "id": "rtk2",
       "title": "RTK 2",
       "content": {
-        "dateAdded": "2025-07-12T23:09:59Z",
+        "dateAdded": "2025-07-12T23:59:00Z",
         "videos": [
           {
-            "url": "https://ub1doy938d.gjirafa.net/live/Gfsqdsr7FewrYClU3ACEGZvCHktt2wse/zykxz01080/index.m3u8",
+            "url": "https://gjirafa-video-live.gjirafa.net/gjvideo-livestream/rtk2/index.m3u8",
             "quality": "HD"
           }
         ],
         "language": "sq"
       },
       "images": {
-        "poster": "https://example.com/logos/rtk2.png"
+        "poster": "https://i.imgur.com/g6k6xyO.png"
       }
     },
     {
-      "id": "klan_kosova",
-      "title": "Klan Kosova",
+      "id": "rtk3",
+      "title": "RTK 3",
       "content": {
-        "dateAdded": "2025-07-12T23:09:59Z",
+        "dateAdded": "2025-07-12T23:59:00Z",
         "videos": [
           {
-            "url": "http://185.47.188.226/live/klan_kosova/playlist.m3u8",
+            "url": "https://gjirafa-video-live.gjirafa.net/gjvideo-livestream/rtk3/index.m3u8",
             "quality": "HD"
           }
         ],
         "language": "sq"
       },
       "images": {
-        "poster": "https://example.com/logos/klan.png"
+        "poster": "https://i.imgur.com/Ut9VcT3.png"
       }
     },
     {
       "id": "rtv21",
       "title": "RTV21",
       "content": {
-        "dateAdded": "2025-07-12T23:09:59Z",
+        "dateAdded": "2025-07-12T23:59:00Z",
         "videos": [
           {
-            "url": "http://5.135.92.133:52841/out/u/490_1.m3u8",
+            "url": "https://gjirafa-video-live.gjirafa.net/gjvideo-live/2cz-npl-jfn-9he/tracks-v2a1/mono.m3u8",
             "quality": "HD"
           }
         ],
         "language": "sq"
       },
       "images": {
-        "poster": "https://example.com/logos/rtv21.png"
+        "poster": "https://i.imgur.com/AqQltGh.png"
       }
     },
     {
-      "id": "dukagjini",
-      "title": "Dukagjini",
+      "id": "t7",
+      "title": "T7",
       "content": {
-        "dateAdded": "2025-07-12T23:09:59Z",
+        "dateAdded": "2025-07-12T23:59:00Z",
         "videos": [
           {
-            "url": "http://5.135.92.133:52841/out/u/198_1.m3u8",
+            "url": "https://gjirafa-video-live.gjirafa.net/gjvideo-livestream-specific/1z8-byc-4ee-lc9/index.m3u8",
             "quality": "HD"
           }
         ],
         "language": "sq"
       },
       "images": {
-        "poster": "https://example.com/logos/dukagjini.png"
-      }
-    },
-    {
-      "id": "ktv",
-      "title": "KTV",
-      "content": {
-        "dateAdded": "2025-07-12T23:09:59Z",
-        "videos": [
-          {
-            "url": "http://185.47.188.226/live/ktv/playlist.m3u8",
-            "quality": "HD"
-          }
-        ],
-        "language": "sq"
-      },
-      "images": {
-        "poster": "https://example.com/logos/ktv.png"
+        "poster": "https://i.imgur.com/b7FvSJj.png"
       }
     }
   ]
